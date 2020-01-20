@@ -1,0 +1,14 @@
+html, body {
+  font-family: Georgia, seriff;
+  font-size: 
+}
+
+h1 {
+  font-family: Georgia;
+  font-size: 56px;
+}
+
+.hero {
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  font-size: 32px
+}
