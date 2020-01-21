@@ -1,7 +1,8 @@
 html, body {
   height: 100%;
-  margin: 0;
+  margin: 5;
   width: 100%;
+  border: 3px dashed black
 }
 
 h1 {
